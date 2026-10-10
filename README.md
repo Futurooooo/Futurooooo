@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hola Soy Irving  
 
-<!--
-**Futurooooo/Futurooooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería Informática en UPIICSA.
 
-Here are some ideas to get you started:
+💻 Estoy aprendiendo y desarrollando proyectos de software para fortalecer mis habilidades prácticas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías y herramientas
+
+- 📱 Android Studio y Kotlin
+- 🌐 HTML, CSS y JavaScript
+- 🐍 Python
+- 🐧 Linux / Debian
+- 🔧 Git y GitHub
+
+## Áreas de interés
+
+- Desarrollo de aplicaciones móviles
+- Desarrollo web
+- Programación y resolución de problemas
+- Ciberseguridad y sistemas Linux
+
+## Proyectos destacados
+-Salvex
+
+## Objetivo
+
+Crear mi propios proyectos, continuar aprendiendo y buscar la innovacion 
